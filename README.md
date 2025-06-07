@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm A passionate FULL STACK UI,PYTHON,JAVA DEVELOPER from India</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"&gt;
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*qdAW1TjCN57h1lbuuzvchg.gif"&gt;
 - 🔭 I’m currently working on **To do project**
 
 - 🌱 I’m currently learning **Django,spring,springboot**
